@@ -1,0 +1,6 @@
+T = int(input())
+for _ in range(T):
+    a, b = input().split()
+    num1 = int(a)
+    num2 = int(b)
+    print(num1 * num2)

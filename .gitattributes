@@ -1,0 +1,5 @@
+﻿# 统一换行：仓库里存 LF，避免 Windows/CI 之间出现纯换行符的假 diff
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
