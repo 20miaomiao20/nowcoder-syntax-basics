@@ -1,13 +1,12 @@
-﻿# Python 运行时产物
+# Python 运行时产物
 __pycache__/
 *.py[cod]
 *.egg-info/
 .venv/
 venv/
 
-# 本地自测输出（临时文件）
+# 本地自测输出的临时文件
 *.tmp
-*.out.tmp
 
 # 编辑器 / 系统
 .idea/
